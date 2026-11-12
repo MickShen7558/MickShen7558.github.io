@@ -1,6 +1,11 @@
 @article{cao2025reconstructing,
-  title={Reconstructing 4D Spatial Intelligence: A Survey},
-  author={Cao, Yukang and Lu, Jiahao and Huang, Zhisheng and Shen, Zhuowen and Zhao, Chengfeng and Hong, Fangzhou and Chen, Zhaoxi and Li, Xin and Wang, Wenping and Liu, Yuan and others},
-  journal={arXiv preprint arXiv:2507.21045},
-  year={2025}
+  title     = {Reconstructing 4D Spatial Intelligence: A Survey},
+  author    = {Cao, Yukang and Lu, Jiahao and Huang, Zhisheng and Shen, Zhuowen and Zhao, Chengfeng and Hong, Fangzhou and Chen, Zhaoxi and Li, Xin and Wang, Wenping and Liu, Yuan and Liu, Ziwei},
+  journal   = {International Journal of Computer Vision},
+  volume    = {134},
+  number    = {11},
+  pages     = {503},
+  year      = {2026},
+  publisher = {Springer},
+  doi       = {10.1007/s11263-026-03072-y}
 }

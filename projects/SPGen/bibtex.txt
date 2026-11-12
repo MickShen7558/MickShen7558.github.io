@@ -1,6 +1,9 @@
-@article{zhang2025spgen,
-  title={SPGen: Spherical Projection as Consistent and Flexible Representation for Single Image 3D Shape Generation},
-  author={Zhang, Jingdong and Chen, Weikai and Liu, Yuan and Wang, Jionghao and Yu, Zhengming and Shen, Zhuowen and Yang, Bo and Wang, Wenping and Li, Xin},
-  journal={arXiv preprint arXiv:2509.12721},
-  year={2025}
+@inproceedings{zhang2025spgen,
+  title     = {SPGen: Spherical Projection as Consistent and Flexible Representation for Single Image 3D Shape Generation},
+  author    = {Zhang, Jingdong and Chen, Weikai and Liu, Yuan and Wang, Jionghao and Yu, Zhengming and Shen, Zhuowen and Yang, Bo and Wang, Wenping and Li, Xin},
+  booktitle = {Proceedings of the SIGGRAPH Asia 2025 Conference Papers},
+  pages     = {1--12},
+  year      = {2025},
+  publisher = {ACM},
+  doi       = {10.1145/3757377.3763959}
 }
